@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "623653514178",
+    "project_id": "flutter-zartek-aa0d6",
+    "storage_bucket": "flutter-zartek-aa0d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623653514178:android:426e62406cc278fa99445b",
+        "android_client_info": {
+          "package_name": "com.example.zartek"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp_T0yPzcXtju9Y4SlmOuHk-BGEo_5lNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
